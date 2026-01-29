@@ -96,7 +96,7 @@ Feature engineering enhanced data separability, while ensemble learning improved
 
 ## Task 4: ML System Design – Fraud Detection
 
-![Fraud Detection Architecture](fraud_detection_architecture.png)
+![Fraud Detection Architecture](fraud_detection.png)
 
 ### Data Ingestion
 Transaction data is ingested through APIs or streaming platforms such as Kafka.
